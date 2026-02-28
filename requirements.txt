@@ -1,0 +1,11 @@
+opencv-python
+numpy
+mediapipe
+joblib
+scikit-learn
+pandas
+flask
+flask-socketio
+deep-translator
+onnxruntime
+gtts
